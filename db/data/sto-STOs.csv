@@ -1,0 +1,4 @@
+ID,stoNumber,stoDate,sourcePlant_code,destinationPlant_code,requestedBy,requestedDeliveryDate,priority,reason,remarks,status,approvalLevel,approvedBy,createdBy,modifiedBy
+a0000000-0000-4000-8000-000000000001,STO-100001,2026-10-07,2000,1000,rahul,2026-10-15,High,Production requirement,Seed - Draft,Draft,Standard,,rahul,rahul
+a0000000-0000-4000-8000-000000000002,STO-100002,2026-10-08,4000,3000,priya,2026-10-20,Normal,Branch replenishment,Seed - Submitted,Submitted,Standard,,priya,priya
+a0000000-0000-4000-8000-000000000003,STO-100003,2026-10-01,2000,4000,rahul,2026-10-09,Urgent,Production shortage,Seed - Completed,Completed,Standard,anita,rahul,anita

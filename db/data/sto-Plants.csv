@@ -1,0 +1,6 @@
+code,name,location,country,status
+1000,Hyderabad Plant,Hyderabad,India,Active
+2000,Bangalore Plant,Bangalore,India,Active
+3000,Chennai Plant,Chennai,India,Active
+4000,Pune Plant,Pune,India,Active
+5000,Kolkata Plant (Closed),Kolkata,India,Inactive

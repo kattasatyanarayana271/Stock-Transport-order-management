@@ -1,0 +1,8 @@
+code,description,materialType,baseUOM_code,status
+MAT-1001,Laptop,Finished Good,EA,Active
+MAT-1002,Monitor,Finished Good,EA,Active
+MAT-1003,Keyboard,Finished Good,EA,Active
+MAT-2001,Steel Rod,Raw Material,KG,Active
+MAT-2002,Hydraulic Oil,Raw Material,L,Active
+MAT-3001,Packaging Box,Packaging,BOX,Active
+MAT-9999,Obsolete Item,Finished Good,EA,Inactive
